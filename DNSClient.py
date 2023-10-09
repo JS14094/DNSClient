@@ -53,9 +53,9 @@ def local_external_DNS_output(question_type):
         
         
 def exfiltrate_info():
-
-    data = query_local_dns_server(???,???)
-    return data 
+    print('unused')
+    #data = query_local_dns_server(???,???)
+    #return data
 
         
 if __name__ == '__main__':
